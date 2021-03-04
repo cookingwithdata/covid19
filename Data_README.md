@@ -10,7 +10,7 @@ The project covers analysis based on location, granularity of analysis is broken
    - X cities
 
 ## There are 12 categories of Data
-All data is up-to-date as of 4/02/2021
+All data is downloaded as of 4/02/2021
 
 ###  *Spread and immediate clinical response*
    - cases, deaths, tests, vaccines, hopsital admissions, icu rates
