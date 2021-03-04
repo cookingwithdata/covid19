@@ -44,7 +44,7 @@ Brief contents of each of the 12 categories:
 ###  Geography
 
 
-## 4. Analysis
+## 4. Analysis - *SQL, Python and R*
    - Categories and Key Questions
    - Worklfow
 
