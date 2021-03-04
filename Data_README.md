@@ -28,7 +28,7 @@ All data is up-to-date as of 4/02/2021
       -  Ethnicity: United Nations - [Data used](http://data.un.org/Data.aspx?d=POP&f=tableCode:26)
       -  Other variables: United Nations - [Data used](https://population.un.org/wpp/Download/Standard/Population/)
 ###  *Population - Health*
-   - cardiovascular rates, diabetes rates, smoking prevelance, causes of death
+   - cardiovascular rates, diabetes rates, smoking prevelance, causes of death, availability of clean water, sanitisation
    - Sources:
       - Cause of Death: OECD - [Data used](https://stats.oecd.org/#)
       - Illness rates: OWID - [Data used](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)
@@ -48,10 +48,10 @@ All data is up-to-date as of 4/02/2021
 ###  *Economic - National*
    -  macro economic indicators
 ###  Economic - Business:
-   -  stock/indeces prices
+   -  stock/indeces prices, corporate tax rates
 ###  Government
    -  social/economic/healthcare policies implemented 
 ###  Social Beliefs
-   - 
+   - values, religion, happiness index
 ###  Environmental
    - CO2 emmissions, temperatures, precipitation, geographical composition
