@@ -47,11 +47,11 @@ All data is downloaded as of **4/02/2021**
    -  city tranport, road/rail/air freight
 ###  *Economic - National*
    -  macro economic indicators
-###  Economic - Business:
+###  *Economic - Business*
    -  stock/indeces prices, corporate tax rates
-###  Government
+###  *Government*
    -  social/economic/healthcare policies implemented 
-###  Social Beliefs
+###  *Social Beliefs*
    - values, religion, happiness index
-###  Environmental
+###  *Environmental*
    - CO2 emmissions, temperatures, precipitation, geographical composition
