@@ -8,6 +8,10 @@ All data is up-to-date as of 4/02/2021
      - [John Hopkins](https://coronavirus.jhu.edu/) - [Data used](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 ###  *Medical response*
    -  medical trials, publications, vaccines, treatments
+   -  Sources:
+      - US National Library of medecine (ClinicalTrials.gov) - [Data used](https://clinicaltrials.gov/ct2/results?cond=covid19+OR+covid-19+OR+%22covid+19%22+OR+2019ncov+OR+2019-ncov+OR+%222019+ncov%22+OR+%222019+Novel+Coronavirus%22+OR+%222019+novel+cov%22+OR+%28wuhan+AND+%28ncov+OR+coronavirus%29%29&flds=aby&Search=Apply&recrs=b&recrs=a&recrs=f&recrs=d&recrs=c&age_v=&gndr=&type=&rslt=)
+      - US National Center for Biotechnology Information (NCBI) - [Data used](https://www.ncbi.nlm.nih.gov/research/coronavirus/#data-download)
+      -  
 ###  *Population - Consistency*
    -  age, sex, ethnicity, life expectancy, death/birth rates,...
 ###  *Population - Health*
