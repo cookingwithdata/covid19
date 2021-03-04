@@ -1,16 +1,16 @@
 
 ## Data Coverage
 The project covers analysis based on location, granularity of analysis is broken down over:
-- XXX locations made up of:
+- XXX(1171) locations made up of:
    - X continents
    - X subcontinents
-   - X political/economic regions
-   - X countries
-   - X provinces / states
-   - X cities
+   - **225** political/economic regions
+   - **251** countries
+   - **641** provinces / states
+   - **48** cities
 
 ## There are 12 categories of Data
-All data is downloaded as of 4/02/2021
+All data is downloaded as of **4/02/2021**
 
 ###  *Spread and immediate clinical response*
    - cases, deaths, tests, vaccines, hopsital admissions, icu rates
