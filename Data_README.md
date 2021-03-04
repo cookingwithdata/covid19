@@ -1,6 +1,11 @@
-# Brief contents of each of the 12 categories
+# There are 12 categories the Data is organised in
+All data is up-to-date as of 4/02/2021
+
 ###  *Spread and immediate clinical response*
    - cases, deaths, tests and vaccines
+   - Sources: 
+     - [Our World in Data](https://ourworldindata.org/coronavirus) - [Data used](https://github.com/owid/covid-19-data/tree/master/public/data) 
+     - [John Hopkins](https://coronavirus.jhu.edu/) - [Data used](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 ###  *Medical response*
    -  medical trials, publications, vaccines, treatments
 ###  *Population - Consistency*
