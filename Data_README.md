@@ -1,8 +1,19 @@
-# There are 12 categories the Data is organised in
+
+## Data Coverage
+The project covers analysis based on location, granularity of analysis is broken down over:
+- XXX locations made up of:
+   - X continents
+   - X subcontinents
+   - X political/economic regions
+   - X countries
+   - X provinces / states
+   - X cities
+
+## There are 12 categories of Data
 All data is up-to-date as of 4/02/2021
 
 ###  *Spread and immediate clinical response*
-   - cases, deaths, tests and vaccines
+   - cases, deaths, tests, vaccines, hopsital admissions, icu rates
    - Sources: 
      - Our World in Data (OWID) - [Data used](https://github.com/owid/covid-19-data/tree/master/public/data) 
      - John Hopkins University - [Data used](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
@@ -42,4 +53,5 @@ All data is up-to-date as of 4/02/2021
    -  social/economic/healthcare policies implemented 
 ###  Social Beliefs
    - 
-###  Geography
+###  Environmental
+   - CO2 emmissions, temperatures, precipitation, geographical composition
